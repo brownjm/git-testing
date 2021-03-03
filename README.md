@@ -1,2 +1,2 @@
 # FizzBuzzUltimate
-The ultimate FizzBuzz program
+The ultimate FizzBuzz program!
