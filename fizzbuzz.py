@@ -15,5 +15,7 @@ for i in range(100):
         print("{: 3d} Fizz".format(i))
     elif i % 5 == 0: # only 5 divides i
         print("{: 3d} Buzz".format(i))
+    elif i: #it's just i
+        print(i)
     else: # neither 3 nor 5 divides i
         pass
