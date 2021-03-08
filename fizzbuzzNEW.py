@@ -13,7 +13,9 @@ for i in range(100):
         result.append("Fizz\n")
     elif i % 5 == 0:
         result.append("Buzz\n")
+    elif i % 20:
+        result.append("Mandy is c00l\n")
     else:
         result.append(i)
-    
+
 print(result)
